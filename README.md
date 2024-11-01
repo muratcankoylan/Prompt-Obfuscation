@@ -22,7 +22,7 @@ This is an **unsuccessful attempt** at reproducing the paper's results. Key issu
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/prompt-obfuscation-attempt.git
+git clone https://github.com/muratcankoylan/prompt-obfuscation-attempt.git
 cd prompt-obfuscation-attempt
 
 # Create virtual environment
