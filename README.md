@@ -66,6 +66,7 @@ prompt-obfuscation/
 
 ## Paper Reference
 Pape, D., Eisenhofer, T., & Schönherr, L. (2024). Prompt Obfuscation for Large Language Models. arXiv preprint arXiv:2409.11026.
+https://arxiv.org/abs/2409.11026 
 
 ## License
 MIT License
